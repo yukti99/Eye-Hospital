@@ -1,0 +1,122 @@
+*****************************PATIENT DETAILS****************************************
+
+A4566	Name:Aryan Saxena
+	Age:46
+	Sex:M
+	Email:Aryan345@gmail.com
+	Phone:9876543212
+
+R2860	Name:Mohan Malhotra
+	Age:23
+	Sex:M
+	Email:Mhon213@gmail.com
+	Phone:9457630121
+
+H9296	Name:Rohan Mehra
+	Age:34
+	Sex:M
+	Email:rhan123@hotmail.com
+	Phone:9123492836
+
+Z3241	Name:Rahul Goel
+	Age:56
+	Sex:M
+	Email:rahulgo@gmail.com
+	Phone:9871652372
+
+S1581	Name:Ranjana Singh
+	Age:32
+	Sex:F
+	Email:ranjana213@yahoo.com
+	Phone:9912647382
+
+G4844	Name:Gorvika Kapoor
+	Age:21
+	Sex:F
+	Email:gorvika32baby@gmail.com
+	Phone:9876543212
+
+C8917	Name:Pamilla Kaur
+	Age:43
+	Sex:F
+	Email:pammy56@yahoo.com
+	Phone:9998543212
+
+A8286	Name:Ravi Saxena
+	Age:34
+	Sex:M
+	Email:ravidas123@reddif.com
+	Phone:9876123213
+
+M5162	Name:Sara Garg
+	Age:42
+	Sex:F
+	Email:sarabeauty@gmail.com
+	Phone:9834512376
+
+H4150	Name:Kabir Thappar
+	Age:23
+	Sex:M
+	Email:kabir1yo23@yahoo.com
+	Phone:9876567898
+
+R6851	Name:Rahul Trivedi
+	Age:17
+	Sex:M
+	Email:rahul01@hotmail.com
+	Phone:9810626460
+
+B4596	Name:Rohit Jain
+	Age:17
+	Sex:M
+	Email:humper45@gmail.com
+	Phone:9871420179
+
+J1033	Name:Saumya Dugal
+	Age:25
+	Sex:F
+	Email:saumya000@ymail.com
+	Phone:9813212348
+
+S3884	Name:Priyanka Sharma
+	Age:24
+	Sex:F
+	Email:prfanmail@gmail.com
+	Phone:9876512345
+
+M2591	Name:Yukti khurana
+	Age:17
+	Sex:F
+	Email:yuktikhurana99@gmail.com
+	Phone:9876123249
+
+Y2924	Name:Rashmi Sinha
+	Age:34
+	Sex:F
+	Email:forashmi23@gmail.com
+	Phone:9876543212
+
+U9157	Name:Muskan Malhotra
+	Age:45
+	Sex:F
+	Email:malhotras677@gmail.com
+	Phone:9876783245
+
+B6069	Name:Rohit Joshi
+	Age:32
+	Sex:M
+	Email:rohitlal231@gmail.com
+	Phone:9876543922
+
+T1999	Name:Parminder Kaur
+	Age:24
+	Sex:F
+	Email:pammila23@hotmail.com
+	Phone:9867892134
+
+P2263	Name:Ronit Chawla
+	Age:57
+	Sex:M
+	Email:ronitchawla987@gmail.com
+	Phone:9876543212
+
